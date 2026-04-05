@@ -1,0 +1,36 @@
+
+╔══════════════════════════════════════════════════════╗
+║         CUSTOMER CHURN ANALYSIS — FINAL REPORT       ║
+╚══════════════════════════════════════════════════════╝
+
+📌 DATASET     : 1,000 Customers | 14 Features
+📌 CHURN RATE  : 42.6%
+
+── KEY INSIGHTS ────────────────────────────────────────
+1. Month-to-month contract customers churn at 56.7%
+   → Recommend long-term contract incentives
+
+2. Customers with satisfaction score ≤ 2 churn at 68.8%
+   → Proactive outreach & service improvement needed
+
+3. Customers with 5+ support calls churn at 50.8%
+   → Reduce resolution time; improve first-call resolution
+
+4. Top Churn Predictors (ML Model):
+   • SatisfactionScore      → 0.1990
+   • TotalCharges           → 0.1407
+   • MonthlyCharges         → 0.1291
+   • Tenure                 → 0.1252
+   • Age                    → 0.1122
+
+── MODEL PERFORMANCE ───────────────────────────────────
+   Logistic Regression  → Accuracy: 68.50% | AUC: 0.742
+   Random Forest        → Accuracy: 66.50% | AUC: 0.746
+
+── BUSINESS RECOMMENDATIONS ────────────────────────────
+   ✅ Target Month-to-month customers with upgrade offers
+   ✅ Set up automated alerts for satisfaction score < 3
+   ✅ Assign dedicated support reps for high-call customers
+   ✅ Offer discounts at months 6, 12 to improve retention
+
+═══════════════════════════════════════════════════════
