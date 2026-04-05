@@ -155,12 +155,12 @@ Open `sql/churn_analysis_queries.sql` in any SQL editor (MySQL Workbench, DBeave
 
 ## 👤 About Me
 
-**[Your Name]**
+**Vanitha**
 Aspiring Data Analyst | Chennai, Tamil Nadu
 
-- 📧 Email: your.email@gmail.com
-- 💼 LinkedIn: linkedin.com/in/yourprofile
-- 🐙 GitHub: github.com/yourusername
+- 📧 Email: vanithaperiyasamy@13
+- 💼 LinkedIn: www.linkedin.com/in/vanitha-kp
+- 🐙 GitHub: github.com/dataanalyst-pixel
 
 ---
 
