@@ -160,7 +160,7 @@ Aspiring Data Analyst | Chennai, Tamil Nadu
 
 - 📧 Email: vanithaperiyasamy@13
 - 💼 LinkedIn: www.linkedin.com/in/vanitha-kp
-- 🐙 GitHub: github.com/dataanalyst-pixel
+- 🐙 GitHub:github.com/dataanalyst-pixel
 
 ---
 
